@@ -42,6 +42,10 @@ public class GitTestLumiere {
         System.out.println("fct_loufoque");//add [M/-]?; nouvelle branche et checkout created branch rien?non [-/M]; save idem?
         // Que se passe-t-il?
         // add [M/-] ; commit [-/M]
+        //Suite des changements sur cette branche add add add (rien sauf icone sauvegarde desactivé;[-/M]; [M/-] ) bizarre
+         // commit 
+        
+      
         
         
         
