@@ -33,6 +33,10 @@ public class GitTestLumiere {
         
         //add [M/-]
         // commit rien?
+        // commit remote [-/M]?oui
+        // add [M/-]?
+        // commit rien?
+        
         
         
         
