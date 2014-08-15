@@ -52,7 +52,7 @@ public class GitTestLumiere {
        
         //Ecrit qui disparaitra apres le reset
         
-        
+        // --amend malheureux cf explication dans nom de ce commit
       
         
         
