@@ -22,6 +22,10 @@ public class GitTestLumiere {
         System.out.println("2.Good Morning");
         
         System.out.println("3.Lumière!");
+        //1er commit
+        
+        System.out.println("4.Dicours and (add or save) [M/-] ; save [M/M] ; add [M/-] ; commit   ");  
+        
         
         
         
