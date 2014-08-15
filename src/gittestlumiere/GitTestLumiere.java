@@ -37,6 +37,13 @@ public class GitTestLumiere {
         // add [M/-]?
         // commit rien?
         
+        // je vais commencer une fonctionnalité loufoque et donc 
+        System.out.println("je crée une nouvelle branche : ");
+        System.out.println("fct_loufoque");//add [M/-]?; nouvelle branche et checkout created branch rien?non [-/M]; save idem?
+        // Que se passe-t-il?
+        // add [M/-] ; commit [-/M]
+        
+        
         
         
         
