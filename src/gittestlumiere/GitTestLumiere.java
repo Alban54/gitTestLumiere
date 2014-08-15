@@ -37,7 +37,10 @@ public class GitTestLumiere {
         // add [M/-]?
         // commit rien?
         
-        
+        //apres une creationde branche des add et commit  et commit remote 
+        //et pour finir un chzckout master, pas de trace de la fct_loufoque c'est bien  add [-/M] tiens bizarre
+        // mes modifs sont pas prises en comptes. add [M/-] ah ben si finalement save [M/M] 
+        // commit 
         
         
         /*
