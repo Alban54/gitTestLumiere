@@ -48,10 +48,11 @@ public class GitTestLumiere {
         //C'est bon apres un pull et un merge inclut obligatoire et un commit c'est redevenu
         // possible de faire des commit remote.
         
+       // NewBranchToCommit suite 1
         
+       // NewBranchToCommit suite 2
         
-       
-        
+       // NewBranchToCommit suite 3 
         
 
         
