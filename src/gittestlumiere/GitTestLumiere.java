@@ -52,6 +52,7 @@ public class GitTestLumiere {
         
        // NewBranchToCommit suite 2
         
+       // NewBranchToCommit suite 3 
         
         
         
